@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Apoorve8055/Electropy-Framework/master/assets/icons/png/icon.png" width="250" height="270" align="center" />
+<img src="https://github.com/Apoorve8055/Electropy-Framework/blob/master/views/assets/img/banner.jpg?raw=true"  />
 
 # What is Electropy
 
