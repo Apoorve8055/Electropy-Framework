@@ -1,0 +1,28 @@
+{
+  "name": "electropy-framework",
+  "version": "1.0.0",
+  "author": {
+    "name": "Apoorve Kumar Verma",
+    "email": "vapoorve@gmail.com",
+    "url": "http://apoorvverma.in",
+    "github": "https://github.com/Apoorve8055"
+  },
+  "description": "Electropy Framework,whic",
+  "main": "./windowmanager/index.js",
+  "scripts": {
+    "build-mac": "electron-packager . electropy-app --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=production",
+    "build-win": "electron-packager . electropy-app --overwrite --platform=win32 --arch=x64 --icon=assets/icons/win/icon.ico --prune=true --out=production",
+    "build-linux": "electron-packager . electropy-app --overwrite --platform=linux --arch=x64 --icon=assets/icons/png/icon.png --prune=true --out=production",
+    "start": "electron ."
+  },
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.8.8",
+    "electron-packager": "^14.0.6"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0",
+    "electron-winstaller": "^4.0.0",
+    "python-shell": "^1.0.7"
+  }
+}

@@ -1,0 +1,54 @@
+  <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+      <script src="assets/js/sweetalert.js"></script>
+      <script src="libraries/libraries.js"></script>
+      <script src="jsscript/example.js"></script>
+      <script src="jsscript/common.js"></script>
+      <link rel="stylesheet" href="assets/css/metro4.css">
+    </head>
+    <body class="example bg-dark fg-white" style="overflow-y: hidden">
+      <button class="button btn-close sys-button" style="background-color: #c4122c;color:white;float: right;padding-top: 0ch;" onclick="Quit()">X</button>
+      <h1 class="text-center">Electropy Framework</h1>
+      <h3 class="text-center">Desktop Application Framework</h3>
+      <div class="d-flex flex-justify-center mt-6">
+        <a class="button" style="background-color: #585b5d;color:white" href="Documentation.html">Documentation</a>
+        <a class="button" style="background-color: #585b5d;color:white;margin-left: 4px;" href="index.html">Home</a>
+        <a class="button" style="background-color: #585b5d;color:white;margin-left: 4px;" onclick="whoami()">About - Apoorv</a>
+    </div>
+    <br>
+
+
+    <div style="margin:30px;">
+        <div 
+        data-role="panel"
+        data-title-caption="<b style='color:black'>Sample Program</b>"
+        data-collapsible="true"
+        data-custom-buttons="customButtons" style="color:black;">
+        <div align="center">
+           <h1>Example</h1>
+                 <form  data-role="validator" action="javascript:" data-clear-invalid="2000" data-on-error-form="invalidForm" data-on-validate-form="validateForm" novalidate="novalidate" data-role-validator="true">
+                   <p>This Example Shows Us The Response Of The Python Script <br/> Like Python Concatenation And Reverse String etc.</p>
+                   <br/>
+                   <div class="form-group" >
+                       <div class="input required" style="width: 400px;">
+                         <input type="text" id="electropyname" data-role="input"  data-prepend="<span class='mif-user'>" placeholder="Enter Your Name" data-validate="required email" class="" data-role-input="true"><div class="button-group">
+                       <button class="button input-clear-button" tabindex="-1" type="button">
+                       <span class="default-icon-cross"></span></button></div>
+                     <div class="prepend"><span class="mif-envelop"></span></div></div>          
+                     <div class="form-group mt-10">
+                         <button class="button" style="background-color: #c4122c;color:white" onclick="exampleprogramfunction()">Submit form</button>
+                         <br>
+                     </div>     
+                   </div>          
+                     </form>
+         </div>      
+       
+       </div>
+   
+    </div>
+    
+
+
+      <script src="assets/js/metro4.js"></script>
+    </body>
