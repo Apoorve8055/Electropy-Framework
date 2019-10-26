@@ -47,6 +47,13 @@ Electron Packager
 python-shell
 ```
 
+# Screenshots
+
+Home | Example | Response | Documentation
+--|---|---|--
+<img src="https://github.com/Apoorve8055/Electropy-Framework/raw/master/views/assets/img/Screenshot%20(211).png" width="250">|<img src="https://github.com/Apoorve8055/Electropy-Framework/raw/master/views/assets/img/Screenshot%20(212).png" width="250">|<img src="https://github.com/Apoorve8055/Electropy-Framework/raw/master/views/assets/img/Screenshot%20(213).png" width="250">|<img src="https://github.com/Apoorve8055/Electropy-Framework/raw/master/views/assets/img/Screenshot%20(216).png" width="250">|
+
+
 ## Contributing :+1:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
