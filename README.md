@@ -56,4 +56,5 @@ Please make sure to update tests as appropriate.
 # Team
 
 | <img src="https://s.gravatar.com/avatar/227b3cf10b589bdbbfd45b26fc11024b?s=144" width="144" /> |
-|--- | | [Apoorve Kumar Verma](http://apoorvverma.in/) |
+|--- |
+| [Apoorve Kumar Verma](http://apoorvverma.in/) |
