@@ -1,3 +1,5 @@
+
+![Electropy Logo](https://raw.githubusercontent.com/Apoorve8055/Electropy-Framework/master/assets/icons/png/icon.png)
 # What is Electropy
 
 Electropy is an Application Development Framework - a toolkit - for people who build Desktop Applications using PYTHON, HTML, CSS, JAVASCRIPT. Its goal is to enable you to develop projects much faster than you could if you were writing code from scratch, Electropy lets you creatively focus on your project by minimizing the amount of code needed for a given task. and it also helps in application production. you can easily make the executable file for different-different platforms.
@@ -54,5 +56,4 @@ Please make sure to update tests as appropriate.
 # Team
 
 | <img src="https://s.gravatar.com/avatar/227b3cf10b589bdbbfd45b26fc11024b?s=144" width="144" /> |
-|--- |
-| [Apoorve Kumar Verma](http://apoorvverma.in/) |
+|--- | | [Apoorve Kumar Verma](http://apoorvverma.in/) |
