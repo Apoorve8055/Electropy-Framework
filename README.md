@@ -1,13 +1,13 @@
+<img src="https://raw.githubusercontent.com/Apoorve8055/Electropy-Framework/master/assets/icons/png/icon.png" width="250" height="270" align="center" />
 
-![Electropy Logo](https://raw.githubusercontent.com/Apoorve8055/Electropy-Framework/master/assets/icons/png/icon.png)
 # What is Electropy
 
 Electropy is an Application Development Framework - a toolkit - for people who build Desktop Applications using PYTHON, HTML, CSS, JAVASCRIPT. Its goal is to enable you to develop projects much faster than you could if you were writing code from scratch, Electropy lets you creatively focus on your project by minimizing the amount of code needed for a given task. and it also helps in application production. you can easily make the executable file for different-different platforms.
 
 
-## Installation
+## Installation :bulb:
 
-You'll need Git and python and Node.js 8.0 or higher(which comes with npm) installed on your computer.
+You'll need Git :octocat: and python and Node.js 8.0 or higher(which comes with npm) installed on your computer.
 
 ```bash
 # Clone this repository
@@ -47,7 +47,7 @@ Electron Packager
 python-shell
 ```
 
-## Contributing
+## Contributing :+1:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
