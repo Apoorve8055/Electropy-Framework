@@ -7,7 +7,7 @@ Electropy is an Application Development Framework - a toolkit - for people who b
 
 ## Installation :bulb:
 
-You'll need Git :octocat: and python and Node.js 8.0 or higher(which comes with npm) installed on your computer.
+You'll need Git :octocat: and python :snake: and Node.js 8.0 or higher(which comes with npm) installed on your computer.
 
 ```bash
 # Clone this repository
@@ -64,4 +64,4 @@ Please make sure to update tests as appropriate.
 
 | <img src="https://s.gravatar.com/avatar/227b3cf10b589bdbbfd45b26fc11024b?s=144" width="144" /> |
 |--- |
-| [Apoorve Kumar Verma](http://apoorvverma.in/) |
+| [**Apoorve Kumar Verma**](http://apoorvverma.in/) |
