@@ -11,7 +11,7 @@ You'll need Git :octocat: and python and Node.js 8.0 or higher(which comes with 
 
 ```bash
 # Clone this repository
-git clone https://github.com/electropy-framework
+git clone https://github.com/Apoorve8055/Electropy-Framework.git
 # Go into the repository
 cd electropy-framework
 # Install dependencies
